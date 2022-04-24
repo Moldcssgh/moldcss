@@ -19,4 +19,4 @@ The above list is non-exhaustive. MoldCss works perfectly with almost all older 
 
 ## License
 Designed with ❤️ by [Tazim Ahmed](https://instagram.com/tazimahmed.dev).
-Licensed under the [MIT License](https://cjpatoilo.com/license).
+Licensed under the [MIT License](https://github.com/Moldcssgh/moldcss/blob/dist/LICENCE).
